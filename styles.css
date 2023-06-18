@@ -278,7 +278,7 @@ button{
         left: calc(50% - 390px/2);
         font-size: 16px;
     }
-    .contact__info h4{
+    .contact__info h4 a{
         color: black;
     }
 
